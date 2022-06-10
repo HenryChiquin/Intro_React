@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/HenryChiquin/Intro_React/static/css/main.f209fec8.css",
-    "main.js": "/HenryChiquin/Intro_React/static/js/main.a3b59cb6.js",
-    "index.html": "/HenryChiquin/Intro_React/index.html",
-    "main.f209fec8.css.map": "/HenryChiquin/Intro_React/static/css/main.f209fec8.css.map",
-    "main.a3b59cb6.js.map": "/HenryChiquin/Intro_React/static/js/main.a3b59cb6.js.map"
+    "main.css": "/Intro_React/static/css/main.f209fec8.css",
+    "main.js": "/Intro_React/static/js/main.a3b59cb6.js",
+    "index.html": "/Intro_React/index.html",
+    "main.f209fec8.css.map": "/Intro_React/static/css/main.f209fec8.css.map",
+    "main.a3b59cb6.js.map": "/Intro_React/static/js/main.a3b59cb6.js.map"
   },
   "entrypoints": [
     "static/css/main.f209fec8.css",
